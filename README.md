@@ -32,7 +32,7 @@
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
+<p align="">
  
   <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widleymayk&layout=compact&theme=dracula"/>
 </p>
