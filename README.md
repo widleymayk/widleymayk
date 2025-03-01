@@ -9,7 +9,7 @@
   
 - 💡 Especialista em soluções web integradas: Front-end ágil + Back-end robusto
   
-- 🚀 **Mentalidade de Crescimento:** Sempre aberto a novos desafios e tecnologias, com foco em aprender e evoluir continuamente
+- 🚀 **Mentalidade de Crescimento:** Sempre aberto a novos desafios e tecnologias, com foco em aprender e evoluir 
   
 - 🔥 **Disposição Profissional:** Pronto para mergulhar em projetos complexos e contribuir com soluções inovadoras 
 
