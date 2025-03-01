@@ -11,7 +11,7 @@
   
 - 🚀 **Mentalidade de Crescimento:** Sempre aberto a novos desafios e tecnologias, com foco em aprender e evoluir continuamente
   
-- 🔥 **Disposição Profissional:** Pronto para mergulhar em projetos complexos e contribuir com soluções inovadoras, seja em equipe ou individualmente  
+- 🔥 **Disposição Profissional:** Pronto para mergulhar em projetos complexos e contribuir com soluções inovadoras 
 
 *"Transformar obstáculos em oportunidades de aprendizado é o que move minha jornada na tecnologia!"*  
 
