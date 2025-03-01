@@ -7,7 +7,7 @@
 📌 **Sobre Mim:**  
 - 🎓 Técnico em Informática pelo Senac | Ciência da Computação (4º período)  
 - 💡 Especialista em soluções web integradas: Front-end ágil + Back-end robusto  
-- 📈 Atualmente imerso em: `React` `Node.js` `APIs RESTful` `Clean Architecture`
+- 📈 Atualmente imerso em: `React` `Node.js` `APIs RESTful` 
 
 ---
 
