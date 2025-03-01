@@ -34,7 +34,7 @@
 
 <p align="center">
  
-  <img width="80%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widleymayk&layout=compact&theme=dracula"/>
+  <img  height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widleymayk&layout=compact&theme=dracula"/>
 </p>
 
 ---
