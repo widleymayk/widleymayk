@@ -6,11 +6,11 @@
 
 📌 **Sobre Mim:**  
 - 🎓 Técnico em Informática pelo Senac | Ciência da Computação (4º período)
-- 
+  
 - 💡 Especialista em soluções web integradas: Front-end ágil + Back-end robusto
-- 
+  
 - 🚀 **Mentalidade de Crescimento:** Sempre aberto a novos desafios e tecnologias, com foco em aprender e evoluir continuamente
-- 
+  
 - 🔥 **Disposição Profissional:** Pronto para mergulhar em projetos complexos e contribuir com soluções inovadoras, seja em equipe ou individualmente  
 
 *"Transformar obstáculos em oportunidades de aprendizado é o que move minha jornada na tecnologia!"*  
