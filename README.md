@@ -34,10 +34,10 @@
 
 <p align="center">
  
-  <img  height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widleymayk&layout=compact&theme=dracula"/>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widleymayk&layout=compact&theme=dracula"/>
 </p>
 
----
+----
 
 ## 📬 Contato Profissional
 
